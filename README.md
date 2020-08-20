@@ -21,7 +21,7 @@ I've always cycled through many hobbies; the latest being:
 - [Jenkins](https://www.jenkins.io)
 - [Git](https://git-scm.com) and [Github](https://github.com)
 
-![Chappy](assets/img/catalina22.jpg "Chappy")
+![Chappy](https://github.com/richard-mauri/richard-mauri/blob/master/assets/img/catalina22.jpg)
 
 
 
