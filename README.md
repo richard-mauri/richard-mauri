@@ -21,7 +21,6 @@ I've always cycled through many hobbies; the latest being:
 - [Jenkins](https://www.jenkins.io)
 - [Git](https://git-scm.com) and [Github](https://github.com)
 
----?image=assets/img/catalina22.jpg
 ![Chappy](assets/img/catalina22.jpg "Chappy")
 
 
