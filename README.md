@@ -22,6 +22,8 @@ I've always cycled through many hobbies; the latest being:
 - [Git](https://git-scm.com) and [Github](https://github.com)
 
 ---?image=assets/img/catalina22.jpg
+![Chappy](assets/img/catalina22.jpg "Chappy")
+
 
 
 <!--
