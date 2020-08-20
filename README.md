@@ -13,7 +13,7 @@ I've always cycled through many hobbies; the latest being:
 
   I've been there over a year after getting awarded an early retirement :bank: from SAP/Ariba.
   
-  Prehistoric roles were at Callidus Cloud, Sun Microsystems, Trimble Navigation and Lockheed Missiles and Space; always as a Software Developer for Operation, DevOps, Platform teams. I gradulated from [UCSD](https://ucsd.edu), Computer Engineering over thrity years ago.
+  Prehistoric roles were at Callidus Cloud, Sun Microsystems, Trimble Navigation and Lockheed Missiles and Space; always as a Software Developer for Operation, DevOps, Platform teams. I graduated from [UCSD](https://ucsd.edu), Computer Engineering over thrity years ago.
   
   Currently, I develop custom [Elastic Beats](https://www.elastic.co/beats) to ship application log data to Elastic clusters. My workday is mostly spent using :
 - [GO](https://golang.org)
