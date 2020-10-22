@@ -9,7 +9,7 @@ I've always cycled through many hobbies; the latest being:
 - Homebrew, ocean fishing, windsurfing, wakeboarding, motorcycling were prior passions
 
 #### Work life
-:factory: I’m currently working from home at [EllieMae](https://www.elliemae.com) as a Staff Engineer in the Cloud Operations Observability team.
+:factory: I’m currently working from home as a Staff Engineer in the Cloud Operations Observability team.
 
   I've been there over a year after getting awarded an early retirement :bank: from SAP/Ariba.
   
