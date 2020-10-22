@@ -15,7 +15,7 @@ I've always cycled through many hobbies; the latest being:
   
   Prehistoric roles were at Callidus Cloud, Sun Microsystems, Trimble Navigation and Lockheed Missiles and Space; always as a Software Developer for Operation, DevOps, Platform teams. I graduated from [UCSD](https://ucsd.edu), Computer Engineering over thrity years ago.
   
-  Currently, I develop custom [Elastic Beats](https://www.elastic.co/beats) to ship application log data to Elastic clusters. My workday is mostly spent using :
+  Currently, I develop custom [Elastic Beats](https://www.elastic.co/beats) and the Logstash porition of Elastic Stack, to ship application log data to Elastic clusters. My workday is mostly spent using :
 - [GO](https://golang.org)
 - [Ansible](https://github.com/ansible/ansible)
 - [Jenkins](https://www.jenkins.io)
